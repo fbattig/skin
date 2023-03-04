@@ -37,6 +37,10 @@ dotnet new gitignore
 git status
 git init
 git branch -m main
+git checkout main
+git merge section2
+git merge --abort
+git push
 
 
 
