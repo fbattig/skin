@@ -14,3 +14,11 @@ mkcert -uninstall
 choco install mkcert --force
 mkcert localhost ==>Generates: The certificate is at "./localhost.pem" and the key at "./localhost-key.pem" 
 -------------------------------------
+getboostrap.com
+
+ngx-bootstrap (https://valor-software.com/ngx-bootstrap/#/)
+cd\client
+ng add ngx-bootstrap (add two packages:bootstrap and ngx-bootstrap)
+npm install font-awesome
+
+
