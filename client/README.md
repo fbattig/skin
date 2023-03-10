@@ -20,5 +20,9 @@ ngx-bootstrap (https://valor-software.com/ngx-bootstrap/#/)
 cd\client
 ng add ngx-bootstrap (add two packages:bootstrap and ngx-bootstrap)
 npm install font-awesome
+--------------------------------
+ng g c nav-bar --skip-tests --dry-run
+----------------------------------
+google: www.json2ts.com
 
 
