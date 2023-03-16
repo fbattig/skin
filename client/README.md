@@ -7,12 +7,14 @@ npm install -g @angular/cli@15
 nvm use <version>
 ng version
 --------------------------------------
+md ssl
+cd ssl
 https://github.com/FiloSottile/mkcert
 choco install mkcert (admin)
 mkcert -install localhost
 mkcert -uninstall
 choco install mkcert --force
-mkcert localhost ==>Generates: The certificate is at "./localhost.pem" and the key at "./localhost-key.pem" 
+ssl> mkcert localhost ==>Generates: The certificate is at "./localhost.pem" and the key at "./localhost-key.pem" 
 -------------------------------------
 getboostrap.com
 

@@ -27,6 +27,11 @@ baseUrl:string="https://localhost:5001/api/"
     return this.http.get<Pagination<Product[]>>(this.baseUrl + 'products', {params});
   }
 
+  getProduct(id: number) {
+    return this.http.get<Product>(this.baseUrl + 'products/'+ id);
+  }
+
+
   getTypes(){
     return this.http.get<Type[]>(this.baseUrl + 'products/types');
   }
