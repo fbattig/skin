@@ -26,5 +26,13 @@ npm install font-awesome
 ng g c nav-bar --skip-tests --dry-run
 ----------------------------------
 google: www.json2ts.com
+-------------------------------------
+ngx-toasttr
+github.com/scttcper/ngx-toastr
+npm install ngx-toastr 
+"styles": [
+  "styles.scss",
+  "node_modules/ngx-toastr/toastr.css" // try adding '../' if you're using angular cli before 6
+]
 
 
