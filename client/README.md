@@ -34,5 +34,34 @@ npm install ngx-toastr
   "styles.scss",
   "node_modules/ngx-toastr/toastr.css" // try adding '../' if you're using angular cli before 6
 ]
+----------------------------------------
+xng-breadcrumb
+github.com/udayvunnam/xng-breadcrumb
+npm install xng-breadcrumb
+---------------------------------------
+bootswatch.com 
+npm install bootswatch
+ "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/ngx-bootstrap/datepicker/bs-datepicker.css",
+         -->     "node_modules/bootswatch/dist/sketchy/bootstrap.min.css",
+              "node_modules/font-awesome/css/font-awesome.min.css",
+              "node_modules/ngx-toastr/toastr.css" ,
+              "src/styles.scss"
+
+--------------------------------------
+ngx-spinner
+https://www.npmjs.com/package/ngx-spinner
+npm install ngx-spinner
+   "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/ngx-bootstrap/datepicker/bs-datepicker.css",
+              "node_modules/bootswatch/dist/united/bootstrap.min.css",
+              "node_modules/font-awesome/css/font-awesome.min.css",
+        -->      "node_modules/ngx-spinner/animations/timer.css",
+              "node_modules/ngx-toastr/toastr.css" ,
+              "src/styles.scss"
+
+
 
 
