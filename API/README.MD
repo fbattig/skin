@@ -41,6 +41,9 @@ git checkout main
 git merge section2
 git merge --abort
 git push
+-----------------------------
+docker.com/products/docker-desktop
+docker-compose up --detach
 
 
 
